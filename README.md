@@ -40,4 +40,4 @@ The dashboard facilitates **data-driven decision-making** by providing clear ins
 
 ## 🖥️ Dashboard Preview
 
-*(Since you mentioned the image is already in the repo, link it directly here so it loads on the README. The name of your image file is `image_9ca30b.png`)*
+**
