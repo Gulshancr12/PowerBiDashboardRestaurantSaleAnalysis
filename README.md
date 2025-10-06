@@ -1,10 +1,17 @@
-# 🍽️ Restaurant Data Analysis Dashboard 📊
+# 🍽️ Global Restaurant Data Analysis Dashboard 📊
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Source-Excel%2FCSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Data Source Badge"/>
+  <img src="https://img.shields.io/badge/DAX-Analysis-red?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</p>
 
 ## ✨ Project Overview
 
-Mera maksad hai is **Power BI Dashboard** ke zariye **Global Restaurant Dataset** ka gehra vishleshan (deep analysis) karna. Is dashboard se hum key business insights nikal sakte hain, jaise ki: *Restaurants ki global distribution, average cost trends, rating performance*, aur *online services ki upyogita*.
+This project features a **comprehensive Power BI Dashboard** designed for in-depth analysis of the **Global Restaurant Dataset**. The primary goal is to transform raw restaurant data into **actionable business intelligence** by visualizing key performance indicators (KPIs), trends, and geographical distributions.
 
-Yeh project data-driven decision-making ko aasan banata hai.
+The dashboard facilitates **data-driven decision-making** by providing clear insights into global restaurant presence, customer behavior (ratings, votes), and the impact of online services.
 
 ---
 
@@ -12,32 +19,25 @@ Yeh project data-driven decision-making ko aasan banata hai.
 
 | Feature | Description | Emojis |
 | :--- | :--- | :--- |
-| **Global Footprint** | Vibhinn deshon (countries) aur shaharon (cities) mein restaurants ka vitaran (distribution). | 🌍🗺️ |
-| **Cost & Rating Analysis** | 'Average Cost for Two' aur 'User Ratings' ke beech sambandh (correlation) aur performance comparison. | 💰⭐ |
-| **Cuisine Popularity** | Sabse zyada lokpriya (popular) aur high-rated cuisines kaun si hain? | 🍜🍕 |
-| **Service Insights** | **Table Booking** aur **Online Delivery** ki availability ka impact business metrics par. | 🧑‍💻📱 |
-| **Growth Trend** | Restaurants ki opening dates ke aadhar par industry ki growth aur expansion. | 📈📅 |
+| **Global Reach** | Visualization of restaurant distribution across various **countries** and major **cities**. | 🌍🗺️ |
+| **Performance vs. Cost** | Analysis of **Average Cost for Two** vs. **User Ratings** and **Votes** to identify market segments. | 💰⭐ |
+| **Cuisine Popularity** | Discovering the most popular and **highest-rated cuisines** across the dataset. | 🍜🍕 |
+| **Service Impact** | Evaluating the correlation between **Table Booking** / **Online Delivery** availability and customer engagement/ratings. | 🧑‍💻📱 |
+| **Market Growth** | Time-series analysis based on the **Date of Opening** to track industry expansion trends. | 📈📅 |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools and Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
-  <img src="https://img.shields.io/badge/Power%20Query-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query Badge"/>
-  <img src="https://img.shields.io/badge/DAX-red?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX Badge"/>
-  <img src="https://img.shields.io/badge/Data%20Source-CSV%2FExcel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="CSV/Excel Badge"/>
-</p>
-
-* **Primary Tool:** **Power BI Desktop** (Data Visualization & Reporting)
-* **Data Transformation:** **Power Query** (M-language) ka upyog karke data cleaning aur merging kiya gaya hai.
-* **Calculations:** **DAX** (Data Analysis Expressions) ka upyog karke custom measures aur columns banaye gaye hain.
-* **Source Data:** `restaurant_data_cl.xlsx` file.
+| Component | Detail |
+| :--- | :--- |
+| **Visualization Tool** | **Power BI Desktop** |
+| **Data Transformation** | **Power Query (M-language)** was used for cleaning, merging, and shaping the raw data. |
+| **Modeling & Measures** | Custom measures and calculated columns were created using **DAX** (Data Analysis Expressions). |
+| **Source Data** | `restaurant_data_cl.xlsx` |
 
 ---
 
 ## 🖥️ Dashboard Preview
 
-*(Is block mein aap apne dashboard ki ek high-quality image ya GIF zaroor add karein. Isse repo ki look aur zyada professional ho jaati hai.)*
-
-### **Snapshot:**
+*(Since you mentioned the image is already in the repo, link it directly here so it loads on the README. The name of your image file is `image_9ca30b.png`)*
